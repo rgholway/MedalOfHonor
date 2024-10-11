@@ -17,6 +17,10 @@ body {
     sans-serif;
 }
 
+nav {
+  font-family: Oxygen, sans-serif;
+}
+
 a {
   color: inherit;
   text-decoration: none;
