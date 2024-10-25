@@ -93,7 +93,7 @@ function Documents() {
         </h1>
         <div className={styles.documentGrid}>
           <LinkOut
-            link="/assets/docs/clarettaylor.PDF"
+            link="/assets/docs/clarettaylor.pdf"
             linkDescription="Dennis letter"
             text="Claret D. Taylor, Colonel USAF (Ret)"
           />
