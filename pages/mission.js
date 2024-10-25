@@ -25,9 +25,9 @@ export default function Mission() {
           Upon landing, Major Conran took command even though he was not the senior ranking officer.  He immediately set up a defensive perimeter and, during the next six hours, directed the ground forces and coordinated Air Force and Navy bombing runs even after being shot in the leg.
         </p>
         <p className={styles.textContainerQuote}>
-          “Towards the end of the afternoon, I had the A-1s dropping bombs and starting strafing runs right over my head. When I stood up, I could see the enemy so, using my compass, I called for drops on such and such headings commencing right over me. Unfortunately, the enemy could also see me when I was standing up and that was when I got shot. The bullet, when it hit my leg, felt like a hot rod. I guess my adrenaline was sky high, so I didn’t think that much about it until after the rescue and then it hurt like hell. “
+          “Towards the end of the afternoon, I had the A-1s dropping bombs and starting strafing runs right over my head. When I stood up, I could see the enemy so, using my compass, I called for drops on such and such headings commencing right over me. Unfortunately, the enemy could also see me when I was standing up and that was when I got shot. The bullet, when it hit my leg, felt like a hot rod. I guess my adrenaline was sky high, so I didn’t think that much about it until after the rescue and then it hurt like hell“
         </p>
-        <p className={styles.textContainerQuoteBold}>
+        <p className={styles.textContainerQuoteBoldRight}>
           Ret. Colonel Philip Conran
         </p>
         <p>
