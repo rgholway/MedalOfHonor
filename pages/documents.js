@@ -93,7 +93,7 @@ function Documents() {
         </h1>
         <div className={styles.documentGrid}>
           <LinkOut
-            link="/assets/docs/clarettaylor.pdf"
+            link="/assets/docs/clarettaylorupdate.pdf"
             linkDescription="Dennis letter"
             text="Claret D. Taylor, Colonel USAF (Ret)"
           />
@@ -113,7 +113,7 @@ function Documents() {
             text="Charles D. Langham, LTC USAF (Ret)"
           />
           <LinkOut
-            link="/assets/docs/kenhessel.pdf"
+            link="/assets/docs/kenhesselupdate.pdf"
             linkDescription="Dennis letter"
             text="Ken S. Hessel, CIA Air Operations (Ret)"
           />
