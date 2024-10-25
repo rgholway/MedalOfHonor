@@ -9,7 +9,7 @@ export default function MedalOfHonor() {
       <Links />
       <div className={styles.textContainer}>
         <h1>
-          Medal Of Honor Recommendation
+          Medal Of Honor
         </h1>
         <p>
           For these heroic actions, Major Conran was recommended for the Medal of Honor in 1970. Details of the mission are in the Recommendation for Decoration form submitted by his commanding officer.
