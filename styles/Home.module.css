@@ -18,6 +18,13 @@
   overflow: scroll;
 }
 
+@media (max-width: 768px) {
+  .navLinks {
+    justify-content: flex-start;
+    gap: 20px;
+  }
+}
+
 .navLinks a {
   text-decoration: none;
   color: #000;
@@ -92,6 +99,14 @@
   color: black;
   font-size: 18px;
   margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .textContainerQuote {
+    padding-left: 20px;
+    /* Reduced padding on mobile */
+    padding-right: 20px;
+  }
 }
 
 .textContainerQuoteBold {
