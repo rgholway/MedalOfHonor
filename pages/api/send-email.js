@@ -5,7 +5,7 @@ export default async function handler(req, res) {
   const { name, email, message, phoneNumber } = req.body
   const msg = {
     to: process.env.SENGRID_EMAIL,
-    from: "rgholway@gmail.com",
+    from: "hello@philipconran.com",
     templateId: "d-0f3ef97e4b7446738a7c74444ae3254a",
     dynamicTemplateData: {
       name: name,

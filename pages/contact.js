@@ -18,36 +18,35 @@ function Contact() {
     if (result.ok) {
       alert("Email sent successfully!");
     }
-    console.log(result)
   }
 
   return (
     <div className={styles.container}>
       <Links />
-      <div className={styles.textContainer}>
-        <h1>
-          If you are interested in supporting our efforts or have any questions please complete the form below.
-        </h1>
-
+      <div className={styles.containerForForm}>
+        <div className={styles.formContainer}>
+          <div>
+            <h1 className={styles.formText}>
+              We want to hear from you!
+            </h1>
+            <p className={styles.hello}>If you are interested in supporting our efforts or have any questions please complete the form</p>
+          </div>
+        </div>
         <div className={styles.formContainer}>
           <form onSubmit={handleSubmit(onSubmit)} className={styles.styledForm}>
             <div className={styles.formGroup}>
-              <label className={styles.formLabel}>Name</label>
-              <input className={styles.formInput} {...register("name", { required: true })} />
+              <input placeholder="Name" className={styles.formInput} {...register("name", { required: true })} />
               {errors.name && <p className={styles.errorMessage}>This field is required</p>}
             </div>
             <div className={styles.formGroup}>
-              <label className={styles.formLabel}>Email</label>
-              <input className={styles.formInput} {...register("email", { required: true })} />
+              <input placeholder="Email" className={styles.formInput} {...register("email", { required: true })} />
               {errors.email && <p className={styles.errorMessage}>This field is required</p>}
             </div>
             <div className={styles.formGroup}>
-              <label className={styles.formLabel}>Phone Number</label>
-              <input className={styles.formInput} {...register("phoneNumber")} />
+              <input className={styles.formInput} placeholder="Phone Number" {...register("phoneNumber")} />
             </div>
             <div className={styles.formGroup}>
-              <label className={styles.formLabel}>Message</label>
-              <textarea className={styles.formTextArea} {...register("message")} />
+              <textarea className={styles.formTextArea} placeholder="Message"{...register("message")} />
             </div>
             <button type="submit" className={styles.submitButton}>Send</button>
           </form>

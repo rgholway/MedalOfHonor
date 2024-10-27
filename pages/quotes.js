@@ -9,6 +9,9 @@ function Quotes() {
         <h1>
           Quotes
         </h1>
+        <p>
+          In our pursuit of the US Government to reverse their decision, one of the early objections of the USAF Decorations Board was that there were no eye-witnesses. So we set out to find some individuals who were part of the mission or had direct knowledge of it.  Fortunately with the internet and a lot of research, we were able to track down a handful of eye-witnesses even after all these years. We are extremely fortunate that these brave men were willing to share their memories of the mission. Their letters of support are in the documents section of this website and below are a few of their quotes.
+        </p>
         <p className={styles.textContainerQuote}>
           “I retired in 2004 after 40 years in CIA special operations, serving in many trouble spots around the world in that time frame. I have seen several acts of the highest level of courage in my career, but none came close to Phil Conran’s actions at Muang Phin. I strongly believe he should have been awarded the Medal of Honor and never understood why he could be awarded the Air Force Cross for actions in Laos and not the Medal of Honor performed in the same country.
         </p>
