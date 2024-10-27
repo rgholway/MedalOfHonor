@@ -168,19 +168,22 @@ function Acknowledgments() {
             United States Senate - MN
           </p>
           <p>
-            Paul Young
+            Nick Atkeson
           </p>
           <p>
-            Dennis Gaughn
+            Jeff Barrett
           </p>
           <p>
-            Erick Negron
+            James Bates
+          </p>
+          <p>
+            Bill Brewster
           </p>
           <p>
             Mary Conran
           </p>
           <p>
-            Bill Kirk
+            Tim Devlin
           </p>
           <p>
             Matthew Dolan
@@ -189,7 +192,49 @@ function Acknowledgments() {
             Nathan Dudley
           </p>
           <p>
+            Dennis Gaughn
+          </p>
+          <p>
+            Ken George
+          </p>
+          <p>
+            Mary Anne Hanis
+          </p>
+          <p>
+            Charles Herrmann
+          </p>
+          <p>
+            Kevin Holt
+          </p>
+          <p>
             Richard Holway
+          </p>
+          <p>
+            John Keegan
+          </p>
+          <p>
+            Bill Kirk
+          </p>
+          <p>
+            Mark Lea
+          </p>
+          <p>
+            Erick Negron
+          </p>
+          <p>
+            Dave O’Neill
+          </p>
+          <p>
+            Anthony Savino
+          </p>
+          <p>
+            Joseph Sullivan
+          </p>
+          <p>
+            John Willmoth
+          </p>
+          <p>
+            Paul Young
           </p>
         </div>
         <p>
