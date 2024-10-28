@@ -18,6 +18,6 @@ export default async function handler(req, res) {
     await sendgrid.send(msg)
     res.status(200).json({ message: 'Email sent successfully!' });
   } catch (error) {
-    res.status(400).json({ message: 'Email did not send' });
+    res.status(400).json({ message: 'Email did not send', error: error.message });
   }
 }

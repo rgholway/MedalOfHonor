@@ -35,7 +35,7 @@ export default function Home() {
                 award this pilot with the Congressional Medal of Honor.
               </p>
               <h1 style={{ textAlign: "left" }}>
-                How can you help support these efforts? Write to your Congressman asking for their support of House Bill 9325.
+                How can you help support these efforts? Write to your member of Congress asking for their support of House Bill 9325.
               </h1>
               <Image
                 src={FlightMap}
