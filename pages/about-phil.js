@@ -11,7 +11,7 @@ function AboutPhil() {
           The Life of Phil Conran
         </h1>
         <p>
-          Retired Colonel Philip J. Conran was born in Hartford, Connecticut and attended Fordham University graduating in 1958. From 1953 – 1958, he served in the Connecticut Air National Guard before joining the ROTC while at Fordham. Upon graduation he embarked on his career in the United States Air Force. He has been married to Margaret (Tierney) Conran, also from Connecticut, for the past 60+ years and has four children (Shane, Patrick, Kelly, Michael). After serving our country for over 30 years in the USAF he and Margaret retired and are living in Santa Barbara, CA.
+          Retired Colonel Philip J. Conran was born in Hartford, Connecticut and attended Fordham University graduating in 1958. From 1953 – 1958, he served in the Connecticut Air National Guard before joining the ROTC while at Fordham. Upon graduation he embarked on his career in the United States Air Force. He has been married to Margaret (Tierney) Conran, also from Connecticut, for the past 60+ years and has four children (Shane, Patrick, Kelly, Michael), eight grandchildren and one great grandchild. After serving our country for over 30 years in the USAF he and Margaret retired and are living in Santa Barbara, CA.
         </p>
         <p>
           Over his career he was Command Pilot with over 6,500 hours in single and multiengine fixed wing aircraft and helicopters.

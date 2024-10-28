@@ -29,7 +29,7 @@ function Contact() {
             <h1 className={styles.formText}>
               We want to hear from you!
             </h1>
-            <p className={styles.hello}>If you are interested in supporting our efforts or have any questions please complete the form</p>
+            <p className={styles.hello}>If you are interested in supporting our efforts or have any questions please complete the form.</p>
           </div>
         </div>
         <div className={styles.formContainer}>
