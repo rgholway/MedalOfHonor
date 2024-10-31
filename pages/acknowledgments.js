@@ -48,7 +48,7 @@ function Acknowledgments() {
           <p>
             Thomas Leo Briggs
             <br />
-            Colonel, USAF (Ret)
+            CIA GS-15 (Ret)
             <br />
             (Eyewitness)
           </p>

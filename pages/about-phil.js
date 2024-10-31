@@ -1,6 +1,8 @@
 import Link from "next/link";
 import Links from "../components/Links";
 import styles from '../styles/Home.module.css';
+import FamilyPhoto from "../public/assets/images/FamilyWithClay.jpeg"
+import Image from 'next/image';
 
 function AboutPhil() {
   return (
@@ -16,6 +18,11 @@ function AboutPhil() {
         <p>
           Over his career he was Command Pilot with over 6,500 hours in single and multiengine fixed wing aircraft and helicopters.
         </p>
+        <Image
+          src={FamilyPhoto}
+          className={styles.containerImage}
+          alt="Phil Conran Family"
+        />
         <div className={styles.bold}>
           USAF Assignments:
         </div>
@@ -53,7 +60,7 @@ function AboutPhil() {
           1974-77: New Boston Satellite Tracking Station, NH (Commander)
         </p>
         <p className={styles.paddingLeft}>
-          1977-78:Naval War College, Newport, RI (Senior Service School)
+          1977-78: Naval War College, Newport, RI (Senior Service School)
         </p>
         <p className={styles.paddingLeft}>
           1978: Fort Belvoir, VA (Defense Systems Management College – student)
@@ -100,7 +107,7 @@ function AboutPhil() {
         <p className={styles.paddingLeft}>
           Air Force Commendation Medal and Two Oak Leaf Clusters
         </p>
-        <p>
+        <p className={styles.paddingLeft}>
           See here for more complete descriptions: <Link legacyBehavior href={"https://valor.militarytimes.com/hero/3605"}>
             <a target="_blank" rel="noopener noreferrere">Military Times</a>
           </Link>

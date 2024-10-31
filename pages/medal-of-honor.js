@@ -1,5 +1,9 @@
 import Links from "../components/Links";
 import styles from '../styles/Home.module.css';
+import Image from 'next/image';
+import MohPhoto from "../public/assets/images/moh.png"
+import AFCPhoto from "../public/assets/images/afc.png"
+
 
 import "../styles/Home.module.css"
 
@@ -12,7 +16,7 @@ export default function MedalOfHonor() {
           Medal Of Honor
         </h1>
         <p>
-          For these heroic actions, Major Conran was recommended for the Medal of Honor in 1970. Details of the mission are in the Recommendation for Decoration form submitted by his commanding officer.
+          For these heroic actions, Major Conran was recommended for the Medal of Honor in 1969. Details of the mission are in the Recommendation for Decoration form submitted by his commanding officer.
         </p>
         <p>
           However, on May 20, 1970, at a ceremony to present an award to Major Conran, Vice Commander Pacific Air Forces Lt. Gen. Lucius D. Clay, Jr. stated that the original Medal of Honor recommendation was initially approved but then downgraded by higher authorities because his classified mission occurred in Laos, which was in violation of the existing Southeast Asia Treaty. He was then awarded the Air Force Cross, which is the highest medal one may receive by the USAF in a small ceremony. If the Medal of Honor had been awarded, it would likely have been presented by the President in a public ceremony at the White House.
@@ -23,6 +27,24 @@ export default function MedalOfHonor() {
         <p>
           Despite the undeniable heroism, the Medal of Honor was never awarded to Major Conran.
         </p>
+        <div className={styles.pictureGrid}>
+          <div>
+            <h1>Medal of Honor</h1>
+            <Image
+              src={MohPhoto}
+              className={styles.containerImage}
+              alt="Phil Conran Family"
+            />
+          </div>
+          <div>
+            <h1>Air Force Cross</h1>
+            <Image
+              src={AFCPhoto}
+              className={styles.containerImage}
+              alt="Phil Conran Family"
+            />
+          </div>
+        </div>
       </div>
     </div>
   )

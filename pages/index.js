@@ -1,7 +1,7 @@
 import Links from '../components/Links';
 import styles from '../styles/Home.module.css';
 import PapaPhilPhoto from "../public/assets/images/youngPhil.jpeg"
-import FlightMap from "../public/assets/images/flightmap.png"
+import FlightMap from "../public/assets/images/FlightMapUpdate.png"
 import Image from 'next/image';
 
 export default function Home() {
@@ -22,7 +22,7 @@ export default function Home() {
                 On October 6, 1969, then USAF Major Philip J. Conran, piloting a CH-3 helicopter, had
                 just minutes to make a critical decision whether to rescue his downed comrades or fly
                 safely back to the home base. Fortunately for his comrades on the ground, he chose to
-                attempt the rescue even though the heavily armed North Vietnamese Army (NVA) was
+                attempt the rescue even though the heavily armed North Vietnamese combat soldiers were
                 waiting. He knew that if he didn’t make the attempt to rescue the men, they had very
                 little chance of survival.
               </p>
