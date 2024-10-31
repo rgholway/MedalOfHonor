@@ -96,17 +96,27 @@ function Documents() {
           <LinkOut
             link="/assets/docs/dp2022.pdf"
             linkDescription="Dennis letter"
-            text="Letter to Secretary of the Air Force – By Dennis Peterson, April 13, 2022"
+            text="Letter to Secretary of the Air Force – By Dennis Peterson Captain, USMCR (fmr), April 13, 2022"
           />
           <LinkOut
             link="/assets/docs/dp2021.pdf"
             linkDescription="Dennis letter"
-            text="Letter to Secretary of the Air Force – By Dennis Peterson, October, 19 2021"
+            text="Letter to Secretary of the Air Force – By Dennis Peterson Captain, USMCR (fmr), October, 19 2021"
           />
           <LinkOut
             link="/assets/docs/dpgeneralbrown.pdf"
             linkDescription="Dennis letter"
-            text="Letter to Chief of Staff USAF – By Dennis Peterson, May 25, 2021"
+            text="Letter to Chief of Staff USAF – By Dennis Peterson Captain, USMCR (fmr), May 25, 2021"
+          />
+          <LinkOut
+            link="/assets/docs/ThomasReed.pdf"
+            linkDescription="Dennis letter"
+            text="Letter to Secretary of the Air Force by Thomas C. Reed  SecAF, 1976-77, August 20, 2013"
+          />
+          <LinkOut
+            link="/assets/docs/MichaelRodgers.pdf"
+            linkDescription="Dennis letter"
+            text=" Letter to Secretary of the Air Force by F. Michael Rogers General, USAF Ret, July 23, 2013"
           />
         </div>
         <h1>Articles</h1>

@@ -309,6 +309,12 @@
   margin: 20px 0;
 }
 
+.pictureGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
 @media (max-width: 768px) {
   .documentGrid {
     grid-template-columns: repeat(2, 1fr);
