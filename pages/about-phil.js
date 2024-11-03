@@ -128,6 +128,9 @@ function AboutPhil() {
           Naval War College in residence at Newport, RI. 1978
         </p>
       </div>
+      <div className={styles.centerText}>
+        Copyright © 2024
+      </div>
     </div>
   )
 }

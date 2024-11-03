@@ -46,6 +46,9 @@ export default function MedalOfHonor() {
           </div>
         </div>
       </div>
+      <div className={styles.centerText}>
+        Copyright © 2024
+      </div>
     </div>
   )
 }

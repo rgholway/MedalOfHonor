@@ -49,8 +49,6 @@ function Acknowledgments() {
             Thomas Leo Briggs
             <br />
             CIA GS-15 (Ret)
-            <br />
-            (Eyewitness)
           </p>
           <p>
             F. Michael Rogers
@@ -248,6 +246,9 @@ function Acknowledgments() {
           <br />
           Shane Conran (If he was still with us, he would be leading the charge)
         </p>
+      </div>
+      <div className={styles.centerText}>
+        Copyright © 2024
       </div>
     </div>
   )

@@ -115,6 +115,13 @@
   color: black;
 }
 
+.centerText {
+  color: grey;
+  text-align: center;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
 .bold {
   font-size: 18px;
   margin-bottom: 20px;
