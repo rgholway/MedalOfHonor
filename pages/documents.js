@@ -116,7 +116,12 @@ function Documents() {
           <LinkOut
             link="/assets/docs/MichaelRodgers.pdf"
             linkDescription="Dennis letter"
-            text=" Letter to Secretary of the Air Force by F. Michael Rogers General, USAF Ret, July 23, 2013"
+            text="Letter to Secretary of the Air Force by F. Michael Rogers General, USAF Ret, July 23, 2013"
+          />
+          <LinkOut
+            link="/assets/docs/PhilConley.pdf"
+            linkDescription="Dennis letter"
+            text="Letter to USAF Decorations Board by Phil Conley, Major General USAF Ret, September 29, 2013"
           />
         </div>
         <h1>Articles</h1>
@@ -176,9 +181,9 @@ function Documents() {
             <a target="_blank" rel="noopener noreferrere">Veteran Tributes Honoring Those Who Served</a>
           </Link>
         </div>
-        <p>
-
-        </p>
+      </div>
+      <div className={styles.centerText}>
+        Copyright © 2024
       </div>
     </div>
   )

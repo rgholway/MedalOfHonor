@@ -1,5 +1,6 @@
 import Links from "../components/Links";
 import styles from '../styles/Home.module.css';
+import Link from "next/link";
 
 export default function Mission() {
   return (
@@ -35,14 +36,16 @@ export default function Mission() {
         </p>
         <p>
           What makes this operation even more remarkable is that Major Conran, while he was a skilled Air Force Pilot, he had no combat training, and yet he was able to successfully perform combat duties similar to a
-          Marine Corps or Army combat officer, for over six hours against a far superior and heavily armed NVA force. For further details of the mission, please check out the articles in the Documents section of this website.
+          Marine Corps or Army combat officer, for over six hours against a far superior and heavily armed NVA force.
         </p>
         <p>
-
+          For further details of the mission, please check out the letters, articles, and web links in the Documents section of this website. One particular video, <Link legacyBehavior href={"https://www.youtube.com/watch?v=m_Wo9FmzNUg&ab_channel=Dr.PaulT.Carter"}>
+            <a target="_blank" rel="noopener noreferrere">The Trap: How a U.S. Air Force Pilot’s Heroics Overcame a North Vietnamese Ambush</a>
+          </Link> produced by Dr. Paul T. Carter, PhD Thai Studies, provides a great illustration of what took place in Moung Phine, Laos.
         </p>
-        <p>
-
-        </p>
+      </div>
+      <div className={styles.centerText}>
+        Copyright © 2024
       </div>
     </div>
   )

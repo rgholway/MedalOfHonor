@@ -58,6 +58,9 @@ function Quotes() {
           Ken S. Hessel, CIA Savannakhet Air Operations Officer, 10/1/1968 to 10/1/1973
         </p>
       </div>
+      <div className={styles.centerText}>
+        Copyright © 2024
+      </div>
     </div>
   )
 }
