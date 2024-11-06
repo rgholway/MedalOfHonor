@@ -10,145 +10,77 @@ function Acknowledgments() {
           Acknowledgments
         </h1>
         <p>
-          We would like to thank our family and friends who have provided support over the years as we’ve tried to reverse this injustice. Without your continued encouragement it would be more difficult to keep fighting this battle.
+          We would like to thank our friends and family who have provided
+          support over the many years as we’ve tried to reverse this injustice.
+          Many of them have written to their Member of Congress asking for
+          their support or have reached out to their network to help our cause.
+          Without your continued encouragement it would be more difficult to
+          keep fighting this battle.
         </p>
         <p>
-          We would also like to extend our gratitude to those eyewitnesses who were willing to come forward with their accounts of the Moung Phine mission and other military and government officials who have provided extensive research and ongoing support. The list below constitutes a small collage of military, CIA, and government officials who have supported this Medal of Honor Recommendation.
+          We would also like to extend our gratitude to those eyewitnesses who
+          were willing to come forward with their accounts of the Moung Phine
+          mission and provided letters of support. We know bringing up their
+          past wartime experience was not easy. And, we’re very thankful for the
+          many military and government officials who have provided extensive
+          research, letters of support and continue to help keep the
+          conversation alive.
+        </p>
+        <p>
+          The list below constitutes a small collage of military, CIA, and
+          government officials who have supported this Medal of Honor
+          Recommendation.
         </p>
         <p>
           And, of course, to our Dad, who set an example for us to follow.
         </p>
+        <h1>Witnesses</h1>
         <div className={styles.documentGrid}>
           <p>
-            Claret Taylor
+            C. Wesley Cossiboom (Ret)
             <br />
-            Colonel, USAF (Ret)
-            <br />
-            (Eyewitness)
+            SSGT, USAF
           </p>
           <p>
-            Peter Costa
+            Peter Costa (Ret)
             <br />
-            Major, USAF (Ret)
-            <br />
-            (Eyewitness)
+            Major, USAF
           </p>
           <p>
-            C. Wesley Cossiboom
-            <br />
-            SSGT, USAF (Ret)
-            <br />
-            (Eyewitness)
-          </p>
-          <p>
-            Stephen P. Condon
-            <br />
-            Maj. Gen. USAF (Ret)
-          </p>
-          <p>
-            Thomas Leo Briggs
-            <br />
-            CIA GS-15 (Ret)
-          </p>
-          <p>
-            F. Michael Rogers
-            <br />
-            General, USAF (Ret)
-          </p>
-          <p>
-            Michael Cook
-            <br />
-            Cmdr. 750 Purple Heart
-          </p>
-          <p>
-            Gary Simpson
-            <br />
-            National Ace Store 2021
-          </p>
-          <p>
-            Dennis A. Peterson
-            <br />
-            Captain, USMCR (Fmr)
-          </p>
-          <p>
-            Edward J. Dewey
-            <br />
-            Colonel, USA (Ret)
-          </p>
-          <p>
-            Bruce “Orville” Wright
-            <br />
-            President, Air &Space Forces Assoc.
-          </p>
-          <p>
-            Doug LaMalfa
-            <br />
-            Congress – CA 2019
-          </p>
-          <p>
-            Thomas C. Reed
-            <br />
-            Sec. AF, 1976-77
-          </p>
-          <p>
-            Salud Carbajal
-            <br />
-            Congress – CA 2023
-          </p>
-          <p>
-            Lois Capps
-            <br />
-            Congress – CA 2014
-          </p>
-          <p>
-            James Mitchel
-            <br />
-            SES, USAF (Ret)
-          </p>
-          <p>
-            Donald G. Hard
-            <br />
-            Lt. Gen. USAF (Ret)
-          </p>
-          <p>
-            Fred L. Borch III
-            <br />
-            Colonel, USA (Ret)
-          </p>
-          <p>
-            Wayne Messner
-            <br />
-            Colonel, USAF (Ret)
-          </p>
-          <p>
-            Jeff Bleich
-            <br />
-            U.S. Ambassador (Ret)
-          </p>
-          <p>
-            Ken S. Hessel
+            Ken S. Hessel (Ret)
             <br />
             CIA Air Operations Officer
+            <br />
+            Chief Air Operations, Savannakhet - 1969
           </p>
           <p>
-            Bruce Lehfeldt
+            Charles D. Langham (Ret)
             <br />
-            CIA Special Operations
+            LTC USAF
           </p>
           <p>
-            Dr. Paul T. Carter
+            Bruce Lehfeldt (Ret)
             <br />
-            PhD Thai Studies
+            CIA Special Operations Officer
+            <br />
+            SGU Red Battalion Case Officer - 1969
           </p>
           <p>
-            Barry Barnett
+            Claret Taylor (Deceased)
             <br />
-            Attorney
+            Colonel, USAF (Ret)
           </p>
+        </div>
+        <h1>Supporters</h1>
+        <div className={styles.documentGrid}>
           <p>
             Richard Blumenthal
             <br />
             United States Senate - CT
+            <br />
+            Member Senate Armed Services Committee
+            <br />
+            Member Senate Committee on Veterans Affairs
           </p>
           <p>
             Laphonza Butler
@@ -156,15 +88,148 @@ function Acknowledgments() {
             United States Senate - CA
           </p>
           <p>
-            Alex Padilla
+            Lois Capps
             <br />
-            United States Senate - CA
+            U.S. House of Representatives - CA, 1998 - 2017
+          </p>
+          <p>
+            Salud Carbajal
+            <br />
+            U.S. House of Representatives - CA
+            <br />
+            Member House Armed Services Committee
           </p>
           <p>
             Amy Klobuchar
             <br />
             United States Senate - MN
+            <br />
+            Chair of the Senate Rules Committee
           </p>
+          <p>
+            Doug LaMalfa
+            <br />
+            U.S. House of Representatives - CA 2019
+          </p>
+          <p>
+            Alex Padilla
+            <br />
+            United States Senate - CA
+          </p>
+          <p>
+            Barry Barnett
+            <br />
+            Attorney, Partner - Susman Godfrey LLP
+            <br />
+            Fellow in the American College of Trial Lawyers
+          </p>
+          <p>
+            Jeff Bleich
+            <br />
+            Attorney
+            <br />
+            Former Ambassador to Australia
+          </p>
+          <p>
+            US Army Col. Fred J. Borch (Ret)
+            <br />
+            Judge Advocate General Corps
+          </p>
+          <p>
+            Thomas Leo Briggs (Ret)
+            <br />
+            CIA Special Operations Officer - Laos 1970-1972
+            <br />
+            Cash on Delivery: CIA Special Operations During the Secret War in Laos
+          </p>
+          <p>
+            Dr. Paul T. Carter @CarterOnConflict
+            <br />
+            US Army (Ret), Ph.D Chulalongkorn Univ.
+            <br />
+            Military Intelligence Corps Association Knowlton Award
+          </p>
+          <p>
+            USAF MG Stephen P. “Pat” Condon (Ret)
+            <br />
+            Former Commander, Ogden Air Logistics Center, Hill AFB, Utah
+          </p>
+          <p>
+            Michael Cook, US Army (Fmr)
+            <br />
+            Commander, Chapter 750
+            <br />
+            Military Order of the Purple Heart
+          </p>
+          <p>
+            Edward J. Dewey (Ret)
+            <br />
+            Colonel, USA
+          </p>
+          <p>
+            USAF MG Donald G. Hard (Ret)
+            <br />
+            Former Director, Space & Strategic Defense Initiative Programs
+            <br />
+            Office of the Secretary of the Air Force for Acquisition
+          </p>
+          <p>
+            USMC Sgt. Maj. Justin D. LeHew (Ret)
+            <br />
+            National Commander, Legion of Valor
+          </p>
+          <p>
+            US Army Maj. Dwight S. Mears (Ret)
+            <br />
+            The Medal of Honor: The Evolution of America's Highest Military Decoration
+          </p>
+          <p>
+            Wayne Messner (Ret)
+            <br />
+            Colonel, USAF
+          </p>
+          <p>
+            James Mitchel (Ret)
+            <br />
+            SES, USAF
+          </p>
+          <p>
+            Dennis A. Peterson
+            <br />
+            Captain, USMCR (Fmr)
+          </p>
+          <p>
+            Thomas C. Reed (Deceased)
+            <br />
+            Former Secretary of the Air Force 1976-1977
+          </p>
+          <p>
+            USAF Gen F. Michael Rogers (Deceased)
+            <br />
+            Commander, Air Force Logistics Command
+          </p>
+          <p>
+            Gary Simpson, US Coast Guard (Fmr)
+            <br />
+            National Ace Store 2021
+          </p>
+          <p>
+            USN Master Chief Petty Officer, Britt K. Slabinski (Ret)
+            <br />
+            Master Chief Special Warfare Operator
+            <br />
+            Medal of Honor, Afghanistan
+            <br />
+            President, Medal of Honor Society
+          </p>
+          <p>
+            Bruce “Orville” Wright
+            <br />
+            President, Air & Space Forces Assn.
+          </p>
+        </div>
+        <h1>Friends & Family</h1>
+        <div className={styles.documentGrid}>
           <p>
             Nick Atkeson
           </p>
@@ -176,9 +241,6 @@ function Acknowledgments() {
           </p>
           <p>
             Bill Brewster
-          </p>
-          <p>
-            Mary Conran
           </p>
           <p>
             Tim Devlin
@@ -226,6 +288,9 @@ function Acknowledgments() {
             Anthony Savino
           </p>
           <p>
+            Mary Conran Smith
+          </p>
+          <p>
             Joseph Sullivan
           </p>
           <p>
@@ -250,7 +315,7 @@ function Acknowledgments() {
       <div className={styles.centerText}>
         Copyright © 2024
       </div>
-    </div>
+    </div >
   )
 }
 
