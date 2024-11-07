@@ -1,8 +1,9 @@
 import Links from '../components/Links';
 import styles from '../styles/Home.module.css';
 import PapaPhilPhoto from "../public/assets/images/youngPhil.jpeg"
-import FlightMap from "../public/assets/images/FlightMapUpdate.png"
+import FlightMap from "../public/assets/images/flightmap.png"
 import Image from 'next/image';
+import LinkOut from '../components/linkOut';
 
 export default function Home() {
   return (
@@ -35,14 +36,19 @@ export default function Home() {
                 award this pilot with the Congressional Medal of Honor.
               </p>
               <h1 style={{ textAlign: "left" }}>
-                How can you help support these efforts? Write to your member of Congress asking for their support of House Bill 9325.
+                How can you help support these efforts? Write to your member of Congress asking for their support of <LinkOut
+                  link="/assets/docs/bill9325.pdf"
+                  linkDescription="houseBill"
+                  text="House Bill 9325."
+                  hasDownload={false}
+                />
               </h1>
               <Image
                 src={FlightMap}
                 className={styles.containerImage}
                 alt="Photo of Philip Conran"
               />
-              <p>US Air Base at Nakon Phanom Royal Thai Air Force Base (NKP) in Thailand was the home base where the US conducted irregular warfare operations along the Ho Chi Minh Trial in Laos. The mission, which included five helicopters left this base and headed south to the Airstrip (LS-235) just north of the city Xeno, where they picked up the Laotian troops from the Savannakhet SGU Red Battalion and flew to a landing zone at the Moung Phine Airstrip (LS-300).</p>
+              <p>US Air Base at Nakon Phanom Royal Thai Air Force Base (NKP) in Thailand was the home base where the US conducted irregular warfare operations along the Ho Chi Minh Trial in Laos. The mission, which included five helicopters left this base and headed south to the Airstrip (LS-235) just north of the city Xeno, where they picked up the Lao soldiers from the Savannakhet SGU Red Battalion and flew to a landing zone at the Moung Phine Airstrip (LS-300).</p>
               <p>
                 Moung Phine (spelled now Muang Phin) was a pivotal location along routes 9 and 23 and the Xe Chon River near Xepon (Tchepone), which was a short distance from the Ho Chi Minh Trail. Xepon was a primary transit center between the Ho Chi Minh Trail and route 9 which is only about 25 miles to the South Vietnam border.
               </p>
