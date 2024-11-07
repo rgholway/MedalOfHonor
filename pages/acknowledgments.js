@@ -134,6 +134,8 @@ function Acknowledgments() {
             US Army Col. Fred J. Borch (Ret)
             <br />
             Judge Advocate General Corps
+            <br />
+            President, Orders and Medals Society of America
           </p>
           <p>
             Thomas Leo Briggs (Ret)
@@ -162,9 +164,7 @@ function Acknowledgments() {
             Military Order of the Purple Heart
           </p>
           <p>
-            Edward J. Dewey (Ret)
-            <br />
-            Colonel, USA
+            US Army Col. Edward J. Dewey (Ret)
           </p>
           <p>
             USAF MG Donald G. Hard (Ret)
