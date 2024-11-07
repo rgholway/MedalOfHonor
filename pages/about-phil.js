@@ -81,7 +81,7 @@ function AboutPhil() {
           Retired as a USAF Colonel in 1988.
         </p>
         <p className={styles.bold}>
-          Major military words and decorations
+          Major military awards and decorations
         </p>
         <p className={styles.paddingLeft}>
           Air Force Cross: October 6, 1969
