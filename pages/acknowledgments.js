@@ -174,7 +174,7 @@ function Acknowledgments() {
             Office of the Secretary of the Air Force for Acquisition
           </p>
           <p>
-            USMC Sgt. Maj. Justin D. LeHew (Ret)
+            USMC Command Sergeant Major Justin D. LeHew (Ret)
             <br />
             National Commander, Legion of Valor
           </p>
@@ -216,14 +216,12 @@ function Acknowledgments() {
           <p>
             USN Master Chief Petty Officer, Britt K. Slabinski (Ret)
             <br />
-            Master Chief Special Warfare Operator
-            <br />
             Medal of Honor, Afghanistan
             <br />
             President, Medal of Honor Society
           </p>
           <p>
-            Bruce “Orville” Wright
+            USAF LG Bruce “Orville” Wright (Ret)
             <br />
             President, Air & Space Forces Assn.
           </p>
