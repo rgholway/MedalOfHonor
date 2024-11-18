@@ -146,6 +146,25 @@
   margin-bottom: 20px;
 }
 
+.textContainerQuoteBlue {
+  padding-left: 75px;
+  padding-right: 75px;
+  font-style: italic;
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #3a5f92;
+  text-align: center;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .textContainerQuoteBlue {
+    padding-left: 20px;
+    /* Reduced padding on mobile */
+    padding-right: 20px;
+  }
+}
+
 @media (max-width: 768px) {
   .textContainerQuote {
     padding-left: 20px;

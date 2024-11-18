@@ -19,8 +19,14 @@ export default function Home() {
               alt="Photo of Philip Conran"
             />
             <div className={styles.textContainer}>
+              <div className={styles.textContainerQuoteBlue}>
+                "There are no American ground combat troops in Laos."
+              </div>
+              <p className={styles.textContainerQuoteBoldRight}>
+                President Richard Nixon, March 6, 1970
+              </p>
               <p>
-                On October 6, 1969, then USAF Major Philip J. Conran, piloting a CH-3 helicopter, had
+                On October 6, 1969, then USAF Major Philip J. Conran, piloting a CH-3 helicopter in Laos, had
                 just minutes to make a critical decision whether to rescue his downed comrades or fly
                 safely back to the home base. Fortunately for his comrades on the ground, he chose to
                 attempt the rescue even though the heavily armed North Vietnamese combat soldiers were
