@@ -26,6 +26,9 @@ export default function Home() {
                 President Richard Nixon, March 6, 1970
               </p>
               <p>
+                Major Philip J. Conran was awarded the Air Force Cross on May 20, 1970, a downgrade from the recommended Medal of Honor. Why was it downgraded? President Nixon certainly did not want to disclose we actually did have American troops in Laos.
+              </p>
+              <p>
                 On October 6, 1969, then USAF Major Philip J. Conran, piloting a CH-3 helicopter in Laos, had
                 just minutes to make a critical decision whether to rescue his downed comrades or fly
                 safely back to the home base. Fortunately for his comrades on the ground, he chose to
