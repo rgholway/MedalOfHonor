@@ -29,12 +29,18 @@ export default function Home() {
                 Major Philip J. Conran was awarded the Air Force Cross on May 20, 1970, a downgrade from the recommended Medal of Honor. Why was it downgraded? President Nixon certainly did not want to disclose we actually did have American troops in Laos.
               </p>
               <p>
-                On October 6, 1969, then USAF Major Philip J. Conran, piloting a CH-3 helicopter in Laos, had
+                On October 6, 1969, then USAF Major Philip J. Conran, piloting a CH-3 helicopter at a classified location in Laos, had
                 just minutes to make a critical decision whether to rescue his downed comrades or fly
                 safely back to the home base. Fortunately for his comrades on the ground, he chose to
                 attempt the rescue even though the heavily armed North Vietnamese combat soldiers were
                 waiting. He knew that if he didn’t make the attempt to rescue the men, they had very
-                little chance of survival.
+                little chance of survival. For his heroic actions, he was recommended the Medal of Honor by his commanding officer.
+              </p>
+              <div className={styles.textContainerQuote}>
+              “I retired in 2004 after 40 years in CIA special operations, serving in many trouble spots around the world in that time frame. I have seen several acts of the highest level of courage in my career, but none came close to Phil Conran’s actions at Muang Phin. I strongly believe he should have been awarded the Medal of Honor and never understood why he could be awarded the Air Force Cross for actions in Laos and not the Medal of Honor performed in the same country.”
+              </div>
+              <p className={styles.textContainerQuoteBoldRight}>
+                Bruce Lehfeldt, CIA Special Operations
               </p>
               <p>
                 This website describes in detail one of the largest rescue missions during the Vietnam
