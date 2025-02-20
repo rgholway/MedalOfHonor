@@ -123,6 +123,11 @@ function Documents() {
             linkDescription="Dennis letter"
             text="Letter to USAF Decorations Board by Phil Conley, Major General USAF Ret, September 29, 2013"
           />
+          <LinkOut
+            link="/assets/docs/MikeHarrislettertoJDVance.pdf"
+            linkDescription="VP letter"
+            text="Letter to Vice President JD Vance – By Michael Harris, CEO/Director, Legion of Valor Museum, January 22, 2025"
+          />
         </div>
         <h1>Articles</h1>
         <div className={styles.documentGrid}>
