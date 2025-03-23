@@ -156,6 +156,11 @@ function Documents() {
             linkDescription="Letter to Congress"
             text="Surviving the Trap, Air Commando Journal Article – Volume 12: Issue 3 2024"
           />
+          <LinkOut
+            link="/assets/docs/sb_resolution_2025.pdf"
+            linkDescription="Letter to Congress"
+            text="County of Santa Barbara, California Resolution Honoring Colonel Philip Conran, March 18, 2025"
+          />
         </div>
         <h1>
           Web Links
