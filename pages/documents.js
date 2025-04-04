@@ -166,7 +166,7 @@ function Documents() {
           Web Links
         </h1>
         <div className={styles.documentGrid}>
-          <Link legacyBehavior href={"https://www.youtube.com/watch?v=m_Wo9FmzNUg"}>
+          <Link legacyBehavior href={"https://youtu.be/_vqZJAtcC3A"}>
             <a target="_blank" rel="noopener noreferrere">The Trap: How a U.S. Air Force Pilot’s Heroics Overcame a North Vietnamese Ambush by Dr. Paul T. Carter PhD Thai Studies</a>
           </Link>
           <Link legacyBehavior href={"https://legionofvalor.org/?s=conran"}>
