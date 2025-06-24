@@ -128,6 +128,11 @@ function Documents() {
             linkDescription="VP letter"
             text="Letter to Vice President JD Vance – By Michael Harris, CEO/Director, Legion of Valor Museum, January 22, 2025"
           />
+          <LinkOut
+            link="/assets/docs/Letter_to_General_Jack_Keane.pdf"
+            linkDescription="General Letter"
+            text="Letter to General Jack Keane – By Justin D. LeHew Past National Commander, Legion of Valor, May 5, 2025"
+          />
         </div>
         <h1>Articles</h1>
         <div className={styles.documentGrid}>
