@@ -129,7 +129,7 @@ function Documents() {
             text="Letter to Vice President JD Vance – By Michael Harris, CEO/Director, Legion of Valor Museum, January 22, 2025"
           />
           <LinkOut
-            link="/assets/docs/Letter_to_General_Jack_Keane.docx"
+            link="/assets/docs/Letter_to_General_Jack_Keane.docx.pdf"
             linkDescription="General Letter"
             text="Letter to General Jack Keane – By Justin D. LeHew Past National Commander, Legion of Valor, May 5, 2025"
           />
