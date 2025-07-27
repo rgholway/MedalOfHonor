@@ -30,8 +30,8 @@ function Documents() {
             linkDescription="House Bill"
             text="House Bill 4580 – Introduced July 2025"
           />
-          <Link legacyBehavior href={"https://www.govtrack.us/congress/bills/118/hr9325/text"}>
-            <a target="_blank" rel="noopener noreferrere">House Bill 9325</a>
+          <Link legacyBehavior href={"https://www.congress.gov/bill/119th-congress/house-bill/4580/text?q=%7B%22search%22%3A%22Conran%22%7D&r=1&s=1"}>
+            <a target="_blank" rel="noopener noreferrere">House Bill 4580</a>
           </Link>
         </div>
         <h1>
