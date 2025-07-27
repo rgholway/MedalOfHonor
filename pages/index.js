@@ -52,9 +52,9 @@ export default function Home() {
               </p>
               <h1 style={{ textAlign: "left" }}>
                 How can you help support these efforts? Write to your member of Congress asking for their support of <LinkOut
-                  link="/assets/docs/bill9325.pdf"
+                  link="https://www.congress.gov/bill/119th-congress/house-bill/4580/text?q=%7B%22search%22%3A%22Conran%22%7D&r=1&s=1"
                   linkDescription="houseBill"
-                  text="House Bill 9325."
+                  text="House Bill 4580."
                   hasDownload={false}
                 />
               </h1>
