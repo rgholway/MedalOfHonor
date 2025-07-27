@@ -26,9 +26,9 @@ function Documents() {
             text="Original MOH Citation 1970"
           />
           <LinkOut
-            link="/assets/docs/bill9325.pdf"
+            link="/assets/docs/House_Bill_4580.pdf"
             linkDescription="House Bill"
-            text="House Bill 9325 – Introduced August 2024"
+            text="House Bill 4580 – Introduced July 2025"
           />
           <Link legacyBehavior href={"https://www.govtrack.us/congress/bills/118/hr9325/text"}>
             <a target="_blank" rel="noopener noreferrere">House Bill 9325</a>
@@ -133,6 +133,12 @@ function Documents() {
             linkDescription="General Letter"
             text="Letter to General Jack Keane – By Justin D. LeHew Past National Commander, Legion of Valor, May 5, 2025"
           />
+          <LinkOut
+            link="/assets/docs/New_Tom_Brigg.pdf"
+            linkDescription="General Letter"
+            text="Letter to USAF Directorate of Personnel Programs by Thomas Leo Briggs, GS-15 Operations Officer (Ret.), CIA, July 7, 2025"
+          />
+          New_Tom_Brigg.pdf
         </div>
         <h1>Articles</h1>
         <div className={styles.documentGrid}>
