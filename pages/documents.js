@@ -138,7 +138,6 @@ function Documents() {
             linkDescription="General Letter"
             text="Letter to USAF Directorate of Personnel Programs by Thomas Leo Briggs, GS-15 Operations Officer (Ret.), CIA, July 7, 2025"
           />
-          New_Tom_Brigg.pdf
         </div>
         <h1>Articles</h1>
         <div className={styles.documentGrid}>
